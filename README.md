@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisites
+
+Before running any script, make sure you have Node.js installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
+
+### `npm install`
+
+After cloning the repository, you need to install the necessary packages. Run the following command in the project directory:
+
+
 ## Available Scripts
 
 In the project directory, you can run:
