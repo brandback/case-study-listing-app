@@ -1,10 +1,10 @@
 import React from 'react';
-import { Item } from '../../types'; // Import the Item type
-import './Card.css'; // Import the CSS for styling
+import { Item } from '../../types';
+import './Card.css';
 
 interface CardProps {
   item: Item;
-  onList: (item: Item) => void; // Function to handle listing the item
+  onList: (item: Item) => void;
 }
 
 const Card: React.FC<CardProps> = ({ item, onList }) => {
